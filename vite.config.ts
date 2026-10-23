@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/dask1/",
+  base: "/doska-obyavleniy-react/",
 });

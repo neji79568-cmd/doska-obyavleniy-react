@@ -10,4 +10,4 @@ API: https://inai-col1.fishrungames.com
 
 GitHub Actions собирает и публикует `dist` из `main`, без ветки `gh-pages`.
 В Settings → Pages → Source нужно выбрать GitHub Actions.
-Адрес после деплоя: https://tazhibaev890-max.github.io/dask1/
+Сайт: https://neji79568-cmd.github.io/doska-obyavleniy-react/
