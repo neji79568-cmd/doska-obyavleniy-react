@@ -1,8 +1,8 @@
-# Рядом — доска объявлений
+# dask1 — доска объявлений «Рядом»
 
 React + TypeScript. Список и публикация объявлений через готовый API. Без Babel: TypeScript и JSX обрабатывает Vite, типы проверяет `tsc`.
 
-Сайт: https://neji79568-cmd.github.io/doska-obyavleniy-react/
+Сайт после успешного деплоя: https://tazhibaev890-max.github.io/dask1/
 
 ## Запуск
 
@@ -41,4 +41,4 @@ API: `https://inai-col1.fishrungames.com`.
 
 В **Settings → Pages → Source** выберите **GitHub Actions**. Ветка `gh-pages` не используется.
 
-В `vite.config.ts` указан `base: '/doska-obyavleniy-react/'`. При переименовании репозитория поменяйте этот путь.
+В `vite.config.ts` указан `base: '/dask1/'`. При переименовании репозитория поменяйте этот путь.
