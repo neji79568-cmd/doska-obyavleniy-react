@@ -1,13 +1,11 @@
 {
-  "name": "doska-obyavleniy-react",
+  "name": "dask1",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "check": "tsc --noEmit",
-    "build": "npm run check && vite build",
-    "preview": "vite preview"
+    "build": "tsc --noEmit && vite build"
   },
   "dependencies": {
     "react": "19.3.1",
